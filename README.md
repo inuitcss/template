@@ -1,5 +1,11 @@
 # Template
 
+inuitcss has very specific formatting and whitespace rules. To make it easier
+for developers to follow these rules, there is a simple template file available.
+To ensure your Sass is inuitcss- and ITCSS-compatible, it is recommended that
+you use this template as the basis for all of your additions to an inuitcss
+project.
+
 ## `wget`
 
 Create a new inuitcss-compatible file by running the following command inside of
